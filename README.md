@@ -1,6 +1,17 @@
 # reactnd-project-myreads
 Udacity ReactJS nanodegree program. Project MyReads
 
+## Installation and running
+Clone the repository to your local machine.
+Switch to the project folder and run `npm install`.
+Be sure, that you have installed the react-router-dom.
+
+Compile and start the project on your local machine by executing `npm start`
+Then you can access the UI on http://localhost:3000 
+
+
+## Project functions
+
 Managing a set of books for multiple shelfs.
 Shelfs are:
 * currently reading
